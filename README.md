@@ -1,5 +1,7 @@
 # Zombie Survival Game
 
+UNIVERSITY GROUP PROJECT BY SIDDHANT(ANDY) SUBRAMANIAN AND GROUP MEMEBERS
+
 ## Introduction
 This project is a simple, arcade-style 2D game developed in C++ using OpenGL. In this game, players navigate a character through a field of zombies, avoiding them to survive as long as possible.
 
